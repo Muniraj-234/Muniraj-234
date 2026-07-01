@@ -32,8 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 **Additional:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,7 +57,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Portfolio Website**](https://github.com/Muniraj-234/Muniraj-234.github.io) | My personal developer portfolio — [live site →](https://muniraj-234.github.io/) | HTML, CSS, JS, Tailwind |
+| [**Portfolio Website**](https://github.com/Muniraj-234/Muniraj-234.github.io) | My personal developer portfolio — [live site →](https://muniraj-234.github.io/) | HTML, CSS, JS |
 | [**Flappy Bird**](https://github.com/Muniraj-234/flappy-bird) | 🐦 Classic Flappy Bird game, playable live on GitHub Pages | HTML, CSS, JS |
 | [**MIT-CLUB**](https://github.com/Muniraj-234/MIT-CLUB) | Web project built for my college technical club | JavaScript |
 
@@ -85,8 +83,4 @@
   <a href="https://instagram.com/mxnx_iz" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@syntaxsirics" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
   <a href="mailto:kmuniraj234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Muniraj-234&icon=0&color=0" alt="visitor count"/>
 </p>
